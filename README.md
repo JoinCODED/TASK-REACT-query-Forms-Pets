@@ -41,4 +41,4 @@ In this task, you are going to crate a form to add a new pet to the pets website
 4. In our update modal get those props to create an inital value for our state, also add an id value because we already have one. but how to display them in our fields? hint: use the `value` property.
 5. In our `App.js` create an update function thats takes an arguemnt and replaces the old pet with the new data coming with the same `id`.
 6. In `PetUpdateModal` call this new method in the `handleSubmit` function.
-# TASK-REACT-FORM
+
